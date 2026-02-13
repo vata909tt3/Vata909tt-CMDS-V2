@@ -112,7 +112,7 @@ TextButton_6.BorderSizePixel = 0
 TextButton_6.Position = UDim2.new(0.080267556, 0, 0.400621116, 0)
 TextButton_6.Size = UDim2.new(0, 111, 0, 36)
 TextButton_6.Font = Enum.Font.Arcade
-TextButton_6.Text = "Server admin"
+TextButton_6.Text = "Server admin (Just a baseplate)"
 TextButton_6.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_6.TextScaled = true
 TextButton_6.TextSize = 14.000
@@ -146,12 +146,12 @@ TextButton_8.TextWrapped = true
 
 -- Scripts:
 
-local function SSRQ_fake_script() -- TextButton.LocalScript 
+local function KVSPKQT_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -172,13 +172,13 @@ local function SSRQ_fake_script() -- TextButton.LocalScript
 	end)
 	
 end
-coroutine.wrap(SSRQ_fake_script)()
-local function GMXBKUQ_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(KVSPKQT_fake_script)()
+local function AYCGXS_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -199,13 +199,13 @@ local function GMXBKUQ_fake_script() -- TextButton_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(GMXBKUQ_fake_script)()
-local function EHQWCK_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(AYCGXS_fake_script)()
+local function DKZKG_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -226,13 +226,13 @@ local function EHQWCK_fake_script() -- TextButton_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(EHQWCK_fake_script)()
-local function GMJNA_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(DKZKG_fake_script)()
+local function LEBEQ_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -932,13 +932,13 @@ local function GMJNA_fake_script() -- TextButton_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(GMJNA_fake_script)()
-local function UIEGSMG_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(LEBEQ_fake_script)()
+local function RDOAJ_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -959,13 +959,13 @@ local function UIEGSMG_fake_script() -- TextButton_5.LocalScript
 	end)
 	
 end
-coroutine.wrap(UIEGSMG_fake_script)()
-local function EFRO_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(RDOAJ_fake_script)()
+local function AYLEN_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -986,8 +986,8 @@ local function EFRO_fake_script() -- TextButton_6.LocalScript
 	end)
 	
 end
-coroutine.wrap(EFRO_fake_script)()
-local function YKPI_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(AYLEN_fake_script)()
+local function DMSIVC_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local player = game.Players.LocalPlayer
@@ -1002,13 +1002,13 @@ local function YKPI_fake_script() -- TextButton_7.LocalScript
 	end)
 	
 end
-coroutine.wrap(YKPI_fake_script)()
-local function KMTIVZE_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(DMSIVC_fake_script)()
+local function NLZZTO_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	local button = script.Parent
 	
-	-- 👇 PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
+	-- ?? PUT THE SCRIPT YOU WANT TO LOAD INSIDE THIS FUNCTION
 	local function LoadedScript()
 		print("Script loaded!")
 	
@@ -1029,8 +1029,8 @@ local function KMTIVZE_fake_script() -- TextButton_8.LocalScript
 	end)
 	
 end
-coroutine.wrap(KMTIVZE_fake_script)()
-local function VWMMO_fake_script() -- TextLabel.DragScript 
+coroutine.wrap(NLZZTO_fake_script)()
+local function GFVROG_fake_script() -- TextLabel.DragScript 
 	local script = Instance.new('LocalScript', TextLabel)
 
 	--Not made by me, check out this video: https://www.youtube.com/watch?v=z25nyNBG7Js&t=22s
@@ -1073,4 +1073,4 @@ local function VWMMO_fake_script() -- TextLabel.DragScript
 	end)
 	
 end
-coroutine.wrap(VWMMO_fake_script)()
+coroutine.wrap(GFVROG_fake_script)()

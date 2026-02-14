@@ -155,7 +155,7 @@ TextButton_9.BorderSizePixel = 0
 TextButton_9.Position = UDim2.new(0.401613712, 0, 0.580745339, 0)
 TextButton_9.Size = UDim2.new(0, 111, 0, 36)
 TextButton_9.Font = Enum.Font.Arcade
-TextButton_9.Text = "Reset"
+TextButton_9.Text = "Spam oof sound"
 TextButton_9.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_9.TextScaled = true
 TextButton_9.TextSize = 14.000
@@ -202,7 +202,7 @@ TextButton_12.TextWrapped = true
 
 -- Scripts:
 
-local function RSQSAMO_fake_script() -- TextButton.LocalScript 
+local function MECRBPV_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
@@ -228,8 +228,8 @@ local function RSQSAMO_fake_script() -- TextButton.LocalScript
 	end)
 	
 end
-coroutine.wrap(RSQSAMO_fake_script)()
-local function RSIEDCJ_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(MECRBPV_fake_script)()
+local function JKLQR_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local button = script.Parent
@@ -255,8 +255,8 @@ local function RSIEDCJ_fake_script() -- TextButton_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(RSIEDCJ_fake_script)()
-local function KWLCAL_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(JKLQR_fake_script)()
+local function VSPFWUZ_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local button = script.Parent
@@ -282,8 +282,8 @@ local function KWLCAL_fake_script() -- TextButton_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(KWLCAL_fake_script)()
-local function RDZWH_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(VSPFWUZ_fake_script)()
+local function UHRVXWB_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local button = script.Parent
@@ -988,8 +988,8 @@ local function RDZWH_fake_script() -- TextButton_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(RDZWH_fake_script)()
-local function XBYQISB_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(UHRVXWB_fake_script)()
+local function UWQRW_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local button = script.Parent
@@ -1015,8 +1015,8 @@ local function XBYQISB_fake_script() -- TextButton_5.LocalScript
 	end)
 	
 end
-coroutine.wrap(XBYQISB_fake_script)()
-local function NDFYH_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(UWQRW_fake_script)()
+local function FONXGKL_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local button = script.Parent
@@ -1042,8 +1042,8 @@ local function NDFYH_fake_script() -- TextButton_6.LocalScript
 	end)
 	
 end
-coroutine.wrap(NDFYH_fake_script)()
-local function NNZB_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(FONXGKL_fake_script)()
+local function PLRVGM_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local player = game.Players.LocalPlayer
@@ -1058,8 +1058,8 @@ local function NNZB_fake_script() -- TextButton_7.LocalScript
 	end)
 	
 end
-coroutine.wrap(NNZB_fake_script)()
-local function HOMUDO_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(PLRVGM_fake_script)()
+local function TKVMALF_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	local button = script.Parent
@@ -1085,8 +1085,8 @@ local function HOMUDO_fake_script() -- TextButton_8.LocalScript
 	end)
 	
 end
-coroutine.wrap(HOMUDO_fake_script)()
-local function CTPOEH_fake_script() -- TextButton_9.LocalScript 
+coroutine.wrap(TKVMALF_fake_script)()
+local function RJWF_fake_script() -- TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_9)
 
 	local button = script.Parent
@@ -1153,8 +1153,8 @@ local function CTPOEH_fake_script() -- TextButton_9.LocalScript
 	end)
 	
 end
-coroutine.wrap(CTPOEH_fake_script)()
-local function DMQLJ_fake_script() -- TextButton_10.LocalScript 
+coroutine.wrap(RJWF_fake_script)()
+local function QIALH_fake_script() -- TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_10)
 
 	local button = script.Parent
@@ -1180,8 +1180,8 @@ local function DMQLJ_fake_script() -- TextButton_10.LocalScript
 	end)
 	
 end
-coroutine.wrap(DMQLJ_fake_script)()
-local function VEAG_fake_script() -- TextButton_11.LocalScript 
+coroutine.wrap(QIALH_fake_script)()
+local function CPXFPCS_fake_script() -- TextButton_11.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_11)
 
 	local button = script.Parent
@@ -3069,8 +3069,8 @@ local function VEAG_fake_script() -- TextButton_11.LocalScript
 	end)
 	
 end
-coroutine.wrap(VEAG_fake_script)()
-local function JURUKV_fake_script() -- TextButton_12.LocalScript 
+coroutine.wrap(CPXFPCS_fake_script)()
+local function OFSVJG_fake_script() -- TextButton_12.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_12)
 
 	local button = script.Parent
@@ -3096,8 +3096,8 @@ local function JURUKV_fake_script() -- TextButton_12.LocalScript
 	end)
 	
 end
-coroutine.wrap(JURUKV_fake_script)()
-local function YFEQ_fake_script() -- TextLabel.DragScript 
+coroutine.wrap(OFSVJG_fake_script)()
+local function ZABXJWP_fake_script() -- TextLabel.DragScript 
 	local script = Instance.new('LocalScript', TextLabel)
 
 	--Not made by me, check out this video: https://www.youtube.com/watch?v=z25nyNBG7Js&t=22s
@@ -3140,4 +3140,4 @@ local function YFEQ_fake_script() -- TextLabel.DragScript
 	end)
 	
 end
-coroutine.wrap(YFEQ_fake_script)()
+coroutine.wrap(ZABXJWP_fake_script)()

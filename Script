@@ -202,7 +202,7 @@ TextButton_12.TextWrapped = true
 
 -- Scripts:
 
-local function TRVDBX_fake_script() -- TextButton.LocalScript 
+local function RSQSAMO_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
@@ -228,8 +228,8 @@ local function TRVDBX_fake_script() -- TextButton.LocalScript
 	end)
 	
 end
-coroutine.wrap(TRVDBX_fake_script)()
-local function ZLFMO_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(RSQSAMO_fake_script)()
+local function RSIEDCJ_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local button = script.Parent
@@ -255,8 +255,8 @@ local function ZLFMO_fake_script() -- TextButton_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(ZLFMO_fake_script)()
-local function TYVGJ_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(RSIEDCJ_fake_script)()
+local function KWLCAL_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local button = script.Parent
@@ -282,8 +282,8 @@ local function TYVGJ_fake_script() -- TextButton_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(TYVGJ_fake_script)()
-local function QYYBE_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(KWLCAL_fake_script)()
+local function RDZWH_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local button = script.Parent
@@ -988,8 +988,8 @@ local function QYYBE_fake_script() -- TextButton_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(QYYBE_fake_script)()
-local function HEBA_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(RDZWH_fake_script)()
+local function XBYQISB_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local button = script.Parent
@@ -1015,8 +1015,8 @@ local function HEBA_fake_script() -- TextButton_5.LocalScript
 	end)
 	
 end
-coroutine.wrap(HEBA_fake_script)()
-local function XQVPX_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(XBYQISB_fake_script)()
+local function NDFYH_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local button = script.Parent
@@ -1042,8 +1042,8 @@ local function XQVPX_fake_script() -- TextButton_6.LocalScript
 	end)
 	
 end
-coroutine.wrap(XQVPX_fake_script)()
-local function JBVMSZ_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(NDFYH_fake_script)()
+local function NNZB_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local player = game.Players.LocalPlayer
@@ -1058,8 +1058,8 @@ local function JBVMSZ_fake_script() -- TextButton_7.LocalScript
 	end)
 	
 end
-coroutine.wrap(JBVMSZ_fake_script)()
-local function RCNI_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(NNZB_fake_script)()
+local function HOMUDO_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	local button = script.Parent
@@ -1085,8 +1085,8 @@ local function RCNI_fake_script() -- TextButton_8.LocalScript
 	end)
 	
 end
-coroutine.wrap(RCNI_fake_script)()
-local function UUGNQ_fake_script() -- TextButton_9.LocalScript 
+coroutine.wrap(HOMUDO_fake_script)()
+local function CTPOEH_fake_script() -- TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_9)
 
 	local button = script.Parent
@@ -1153,8 +1153,8 @@ local function UUGNQ_fake_script() -- TextButton_9.LocalScript
 	end)
 	
 end
-coroutine.wrap(UUGNQ_fake_script)()
-local function AJJWB_fake_script() -- TextButton_10.LocalScript 
+coroutine.wrap(CTPOEH_fake_script)()
+local function DMQLJ_fake_script() -- TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_10)
 
 	local button = script.Parent
@@ -1180,8 +1180,8 @@ local function AJJWB_fake_script() -- TextButton_10.LocalScript
 	end)
 	
 end
-coroutine.wrap(AJJWB_fake_script)()
-local function GJNZW_fake_script() -- TextButton_11.LocalScript 
+coroutine.wrap(DMQLJ_fake_script)()
+local function VEAG_fake_script() -- TextButton_11.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_11)
 
 	local button = script.Parent
@@ -3069,8 +3069,8 @@ local function GJNZW_fake_script() -- TextButton_11.LocalScript
 	end)
 	
 end
-coroutine.wrap(GJNZW_fake_script)()
-local function GNVCLPX_fake_script() -- TextButton_12.LocalScript 
+coroutine.wrap(VEAG_fake_script)()
+local function JURUKV_fake_script() -- TextButton_12.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_12)
 
 	local button = script.Parent
@@ -3086,7 +3086,7 @@ local function GNVCLPX_fake_script() -- TextButton_12.LocalScript
 		end
 		
 		
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/vata909tt3/Fish-FE/refs/heads/main/Script", true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/inkdupe/hat-scripts/refs/heads/main/updatedhathub.lua"))()
 	
 	
 	end
@@ -3096,8 +3096,8 @@ local function GNVCLPX_fake_script() -- TextButton_12.LocalScript
 	end)
 	
 end
-coroutine.wrap(GNVCLPX_fake_script)()
-local function YNRH_fake_script() -- TextLabel.DragScript 
+coroutine.wrap(JURUKV_fake_script)()
+local function YFEQ_fake_script() -- TextLabel.DragScript 
 	local script = Instance.new('LocalScript', TextLabel)
 
 	--Not made by me, check out this video: https://www.youtube.com/watch?v=z25nyNBG7Js&t=22s
@@ -3140,4 +3140,4 @@ local function YNRH_fake_script() -- TextLabel.DragScript
 	end)
 	
 end
-coroutine.wrap(YNRH_fake_script)()
+coroutine.wrap(YFEQ_fake_script)()
